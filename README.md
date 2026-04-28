@@ -13,6 +13,7 @@ I'm interested in building cool projects, learning new technologies, and collabo
 
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiga07&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiga07)](https://github.com/amiga07/github-readme-stats)
 
 ## 💡 Featured Projects
 Check out some of my repositories to see what I'm working on!
