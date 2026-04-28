@@ -12,7 +12,7 @@ I'm interested in building cool projects, learning new technologies, and collabo
 - Problem Solving
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiga07&show_icons=true&theme=radical)
 
 ## 💡 Featured Projects
 Check out some of my repositories to see what I'm working on!
